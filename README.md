@@ -1,6 +1,7 @@
 # Publish your Obsidian Notes
 
 (MkDocs template)
+![](docs/IMG_20220420_152827.jpg)
 
 Would you like to take _some_ of your notes in [Obsidian](https://obsidian.md/) and make it public?
 
