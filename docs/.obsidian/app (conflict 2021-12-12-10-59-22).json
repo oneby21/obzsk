@@ -1,0 +1,24 @@
+{
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:paste",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "editor:set-heading",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list"
+  ],
+  "fileSortOrder": "byModifiedTime",
+  "trashOption": "none",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
+}

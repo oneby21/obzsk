@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "47dde8dcbe41bf49",
+    "type": "split",
+    "children": [
+      {
+        "id": "f089fef975c92b7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "发现网站/三个博客网站.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b65d28f9cee49ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c67f7c0e60d82c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c468a12159001c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "842947a162c5fb4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e846d297daa7e09a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d9f862852723dad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "right": {
+    "id": "5c00622e47bed8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b177cc7484fb34d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5fd3b9e284f234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "发现网站/三个博客网站.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf9e44eac4b6ea9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "发现网站/三个博客网站.md"
+              }
+            }
+          },
+          {
+            "id": "32c73f25dfe3320a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e55ca7c43b48204f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "发现网站/三个博客网站.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 179
+  },
+  "active": "f089fef975c92b7a",
+  "lastOpenFiles": [
+    "发现网站/三个博客网站.md",
+    "发现网站/莉莉安的迷宫blog.md",
+    "发现网站/论文查重.md",
+    "发现网站/TG机器人大全.md",
+    "发现网站/zlib图书馆.md",
+    "发现网站/素心书斋.md",
+    "发现网站/奈斯搜索.md",
+    "发现网站/中国研究服务中心.md",
+    "发现网站/MD 到 DOCX 转换器.md",
+    "发现网站/桂电，知网.md"
+  ]
+}

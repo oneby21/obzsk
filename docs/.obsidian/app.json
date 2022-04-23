@@ -1,0 +1,23 @@
+{
+  "autoConvertHtml": false,
+  "attachmentFolderPath": "./附件",
+  "newFileLocation": "root",
+  "readableLineLength": false,
+  "foldHeading": true,
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTime",
+  "showUnsupportedFiles": true,
+  "newFileFolderPath": "新建笔记",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "livePreview": true
+}

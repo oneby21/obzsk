@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "47dde8dcbe41bf49",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d6857d421eb9be9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b65d28f9cee49ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c67f7c0e60d82c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c468a12159001c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "842947a162c5fb4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "中国",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e846d297daa7e09a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d9f862852723dad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267
+  },
+  "right": {
+    "id": "5c00622e47bed8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b177cc7484fb34d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5fd3b9e284f234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf9e44eac4b6ea9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "32c73f25dfe3320a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e55ca7c43b48204f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 179,
+    "collapsed": true
+  },
+  "active": "2d6857d421eb9be9",
+  "lastOpenFiles": [
+    "index.md",
+    "MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "666.md",
+    "666 - 副本.md",
+    "【01索引】/总索引.md",
+    "Zettelkasten/202204212207.md",
+    "5.md",
+    "222.md",
+    "README.md",
+    "44.md"
+  ]
+}
