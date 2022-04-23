@@ -1,0 +1,1 @@
+https://github.com/lkyero/GitHubDesktop_zh#1%E4%B8%80%E9%94%AE%E6%9B%BF%E6%8D%A2
