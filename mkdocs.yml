@@ -1,23 +1,27 @@
 site_name: obzsk
 
 theme:
-  name: material
-  palette:
-    primary: 'Blue Grey'
-    accent: 'Pink'
-  feature:
-    tabs: false
-  #font:
-    #text: 'Ubuntu'
-    #code: 'Ubuntu Mono'
-  language: 'zh'
+    name: 'material'
+    palette:
 
-extra:
-  social:
-    - type: github  # 在新版里type已废弃(感谢HuJialun的反馈)
-      link: https://github.com/cyent
-  search:
-    language: 'jp'
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -33,6 +37,7 @@ markdown_extensions:
   # - admonition
   - toc:
       permalink: true
+
 plugins:
   - search
   - roamlinks 
