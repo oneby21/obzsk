@@ -1,4 +1,4 @@
-# Obsidian Notes1
+# 黑曜石知识库
 
 Publish your public notes with MkDocs
 
