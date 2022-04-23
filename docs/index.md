@@ -1,11 +1,5 @@
 # 黑曜石知识库
+ Hello World!
+## 这是一个索引
 
-Publish your public notes with MkDocs
-
-## Hello World!
 [[Zettelkasten_20220421212558]]
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
