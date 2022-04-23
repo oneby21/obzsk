@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "MarkDown超级教程 Obsidian版 2022.1.12.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中国",
+                "query": "有目标",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "MarkDown超级教程 Obsidian版 2022.1.12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "MarkDown超级教程 Obsidian版 2022.1.12.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "MarkDown超级教程 Obsidian版 2022.1.12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,8 +138,8 @@
   },
   "active": "2d6857d421eb9be9",
   "lastOpenFiles": [
-    "index.md",
     "MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "index.md",
     "666.md",
     "666 - 副本.md",
     "【01索引】/总索引.md",

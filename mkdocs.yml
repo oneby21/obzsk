@@ -3,6 +3,7 @@ site_name: obzsk
 theme:
     name: 'material'
     palette:
+  language: 'zh'
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -37,6 +38,9 @@ markdown_extensions:
   # - admonition
   - toc:
       permalink: true
+extra:
+  search:
+    language: 'jp'
 
 plugins:
   - search
