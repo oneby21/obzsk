@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "纸间书摘/云边有个小卖部.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "纸间书摘/云边有个小卖部.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "纸间书摘/云边有个小卖部.md"
+                "file": "index.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "纸间书摘/云边有个小卖部.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,9 +138,9 @@
   },
   "active": "2d6857d421eb9be9",
   "lastOpenFiles": [
+    "index.md",
     "纸间书摘/云边有个小卖部.md",
     "纸间书摘/再忙也要用心生活.md",
-    "index.md",
     "纸间书摘/兄弟 (余华作品).md",
     "纸间书摘/小狗钱钱.md",
     "纸间书摘/平凡的世界.md",
