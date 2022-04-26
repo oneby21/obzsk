@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "a观影记录/横道世之界.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a观影记录/横道世之界.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a观影记录/横道世之界.md"
+                "file": "index.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a观影记录/横道世之界.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,11 +138,11 @@
   },
   "active": "2d6857d421eb9be9",
   "lastOpenFiles": [
-    "a观影记录/横道世之界.md",
     "index.md",
     "b文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md",
+    "b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
+    "a观影记录/横道世之界.md",
     "b文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md",
-    "b文章收藏/一封高三老师写给大一学生的信 [一封久远的信]- 陆简隽博客.md",
     "MarkDown超级教程 Obsidian版 2022.1.12.md",
     "文章收藏/今年的成年人，好像都特别爱哭.md",
     "文章收藏/当你的同学群不可避免地走向散场.md",
