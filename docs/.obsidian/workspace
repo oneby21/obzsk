@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "文章收藏/笔记软件最重要的功能是搜索——关于笔记工具的思考(上篇).md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文章收藏/笔记软件最重要的功能是搜索——关于笔记工具的思考(上篇).md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文章收藏/笔记软件最重要的功能是搜索——关于笔记工具的思考(上篇).md"
+                "file": "index.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文章收藏/笔记软件最重要的功能是搜索——关于笔记工具的思考(上篇).md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,15 +138,15 @@
   },
   "active": "2d6857d421eb9be9",
   "lastOpenFiles": [
-    "文章收藏/笔记软件最重要的功能是搜索——关于笔记工具的思考(上篇).md",
-    "文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md",
-    "文章收藏/当你的同学群不可避免地走向散场.md",
+    "index.md",
+    "观影记录/横道世之界.md",
     "文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md",
+    "文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md",
+    "文章收藏/一封高三老师写给大一学生的信 [一封久远的信]- 陆简隽博客.md",
+    "MarkDown超级教程 Obsidian版 2022.1.12.md",
     "文章收藏/今年的成年人，好像都特别爱哭.md",
-    "文章收藏/Obsidian 新手系列之你不可不知的插件.md",
-    "文章收藏/【读书】也许你该了解规划人生的不足了.md",
-    "文章收藏/一封高三老师写给大一学生的信 （一封久远的信）.md",
-    "文章收藏/obsidian用github同步.md",
-    "文章收藏/Obsidian 上手及使用 Git 跨平台同步.md"
+    "文章收藏/当你的同学群不可避免地走向散场.md",
+    "文章收藏/笔记软件最重要的功能是搜索——关于笔记工具的思考(上篇).md",
+    "文章收藏/Obsidian 新手系列之你不可不知的插件.md"
   ]
 }
