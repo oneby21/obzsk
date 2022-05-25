@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "1786bd9347d07857",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd809974b91e0d0e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "建立大脑对笔记的索引.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b77688ce1466e7ba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "395089979e21b31d",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "e94c6d407e18abe3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7c56cbc95ab5490f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bab90e23c1f31d50",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f0ef5eabce347e22",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "43fbd18c7b5774e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f85a3c8b98a0e60",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "建立大脑对笔记的索引.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "899e46d0ea5e7327",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "建立大脑对笔记的索引.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fdd55762813c5148",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "建立大脑对笔记的索引.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "cd809974b91e0d0e",
+  "lastOpenFiles": [
+    "建立大脑对笔记的索引.md",
+    "Excalidraw/Drawing 2021-12-12 11.25.19.excalidraw.md",
+    "Markdown学习/MarkDown 快速入门，手把手教你使用 MarkDown（因为忘记，所以记录） - 简书.md",
+    "Excalidraw/Drawing 2021-12-12 11.24.17.excalidraw.md",
+    "简悦.md",
+    "维基百科，自由的百科全书.md",
+    "书伴批量导出20211207/肖申克的救赎_20211207222501.md",
+    "三分钟英语对话.md",
+    "笔记软件最重要的功能是搜索——关于笔记工具的思考(上篇).md",
+    "111.md"
+  ]
+}

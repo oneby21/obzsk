@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "ab50c38bdac37a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da149eb39848cac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ob中文教程/06 ob官方帮助文档（节选）/Obsidian 同步服务 by ob官方.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8983c0533c6c69ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "23260c33cd0ac688",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4ee02d4165915bbf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a35f716e61bcd92b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8b6085fdec946fbb",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "e02603a0850b4ac8",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8f1783d7bcc69a89",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "75b0874bb704ab7d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ob中文教程/06 ob官方帮助文档（节选）/Obsidian 同步服务 by ob官方.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "67d0ff771242b686",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "ob中文教程/06 ob官方帮助文档（节选）/Obsidian 同步服务 by ob官方.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e815b70cab60f619",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "ob中文教程/06 ob官方帮助文档（节选）/Obsidian 同步服务 by ob官方.md"
+          }
+        }
+      },
+      {
+        "id": "cc1a7c92e7a05840",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "active": "9da149eb39848cac",
+  "lastOpenFiles": [
+    "ob中文教程/06 ob官方帮助文档（节选）/Obsidian 同步服务 by ob官方.md",
+    "使用 Obsidian 极大提升 “知识管理” 的体验.md",
+    "ob中文教程/03 教程/Obsidian Windows 与安卓端同步 by 承志0827.md",
+    "ob中文教程/03 教程/Obsidian与Seafile搭建自己的私有笔记 by 小z博客.md",
+    "ob中文教程/03 教程/Isaac láoshī.md",
+    "ob中文教程/03 教程/可以添加word为附件吗.md",
+    "ob中文教程/03 教程/FolderSync（同步软件）.md",
+    "书伴批量导出20211207/阿甘正传_20211207222501.md",
+    "使用指南/块链接与块引用.md",
+    "simpread-小红书被曝推送未成年人身体隐私内容.md"
+  ]
+}
