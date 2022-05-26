@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "preview",
+            "file": "docs/b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,15 +180,15 @@
   },
   "active": "a2e6c7940c3cbb25",
   "lastOpenFiles": [
+    "docs/b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
     "docs/index.md",
     "docs/b文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md",
+    "附件/Pasted image 20220522153751.png",
     "docs/b文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md",
-    "docs/b文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
     "docs/a观影记录/横道世之界.md",
     "附件/Pasted image 20220522153723.png",
     "附件/Pasted image 20220522153734.png",
     "docs/未命名.md",
-    "2021-11-22-22-54-02.png",
-    "2021-11-22-22-52-49.png"
+    "2021-11-22-22-54-02.png"
   ]
 }
