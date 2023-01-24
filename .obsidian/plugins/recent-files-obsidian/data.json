@@ -5,6 +5,10 @@
       "path": "docs/index.md"
     },
     {
+      "basename": "关于",
+      "path": "docs/03其他/关于.md"
+    },
+    {
       "basename": "横道世之界",
       "path": "docs/01观影记录/横道世之界.md"
     },
@@ -18,15 +22,11 @@
     },
     {
       "basename": "03老子天下无敌",
-      "path": "docs/03老子天下无敌.md"
+      "path": "docs/03其他/03老子天下无敌.md"
     },
     {
       "basename": "解析让人上瘾的情绪价值-恋爱指南",
       "path": "docs/02文章收藏/解析让人上瘾的情绪价值-恋爱指南.md"
-    },
-    {
-      "basename": "关于",
-      "path": "docs/关于.md"
     },
     {
       "basename": "一封高三老师写给大一学生的信  陆简隽博客",
