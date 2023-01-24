@@ -5,28 +5,32 @@
       "path": "docs/index.md"
     },
     {
+      "basename": "03老子天下无敌",
+      "path": "docs/03其他/03老子天下无敌.md"
+    },
+    {
       "basename": "关于",
       "path": "docs/03其他/关于.md"
+    },
+    {
+      "basename": "Templater时间戳模板",
+      "path": "模板/Templater时间戳模板.md"
+    },
+    {
+      "basename": "我们为什么要记笔记by fishyer",
+      "path": "docs/01观影记录/我们为什么要记笔记by fishyer.md"
     },
     {
       "basename": "横道世之界",
       "path": "docs/01观影记录/横道世之界.md"
     },
     {
-      "basename": "白小纯-情圣",
-      "path": "docs/02文章收藏/白小纯-情圣.md"
-    },
-    {
-      "basename": "珍爱生活：远离国产毒瘤软件 - 木子",
-      "path": "docs/02文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md"
-    },
-    {
-      "basename": "03老子天下无敌",
-      "path": "docs/03其他/03老子天下无敌.md"
-    },
-    {
       "basename": "解析让人上瘾的情绪价值-恋爱指南",
       "path": "docs/02文章收藏/解析让人上瘾的情绪价值-恋爱指南.md"
+    },
+    {
+      "basename": "白小纯-情圣",
+      "path": "docs/02文章收藏/白小纯-情圣.md"
     },
     {
       "basename": "一封高三老师写给大一学生的信  陆简隽博客",
@@ -37,8 +41,8 @@
       "path": "docs/02文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md"
     },
     {
-      "basename": "我们为什么要记笔记by fishyer",
-      "path": "docs/01观影记录/我们为什么要记笔记by fishyer.md"
+      "basename": "珍爱生活：远离国产毒瘤软件 - 木子",
+      "path": "docs/02文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md"
     },
     {
       "basename": "Pasted image 20220522153746",
@@ -163,10 +167,6 @@
     {
       "basename": "爱的沟通",
       "path": "纸间书摘/爱的沟通.md"
-    },
-    {
-      "basename": "Templater时间戳模板",
-      "path": "模板/Templater时间戳模板.md"
     },
     {
       "basename": "不玩基金了",
