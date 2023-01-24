@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/a观影记录/我们为什么要记笔记by fishyer.md",
+                "file": "docs/老子天下无敌.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/a观影记录/我们为什么要记笔记by fishyer.md",
+                "file": "docs/老子天下无敌.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/a观影记录/我们为什么要记笔记by fishyer.md",
+                "file": "docs/老子天下无敌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/a观影记录/我们为什么要记笔记by fishyer.md"
+                "file": "docs/老子天下无敌.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/a观影记录/我们为什么要记笔记by fishyer.md",
+                "file": "docs/老子天下无敌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +199,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2e6c7940c3cbb25",
+  "active": "d1dd05d904487ea7",
   "lastOpenFiles": [
-    "docs/a观影记录/横道世之界.md",
-    "docs/a观影记录/我们为什么要记笔记by fishyer.md",
-    "解析让人上瘾的情绪价值-恋爱指南.md",
     "docs/b文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md",
+    "docs/a观影记录/我们为什么要记笔记by fishyer.md",
+    "docs/a观影记录/横道世之界.md",
+    "解析让人上瘾的情绪价值-恋爱指南.md",
     "docs/b文章收藏/白小纯-情圣.md",
     "白小纯-情圣 1.md",
     "docs/b文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md",
