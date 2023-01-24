@@ -8,7 +8,7 @@
   "fileSortOrder": "byCreatedTime",
   "showUnsupportedFiles": true,
   "newFileFolderPath": "新建笔记",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
