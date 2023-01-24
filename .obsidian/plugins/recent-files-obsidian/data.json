@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "关于",
+      "path": "docs/关于.md"
+    },
+    {
       "basename": "index",
       "path": "docs/index.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "03老子天下无敌",
       "path": "docs/03老子天下无敌.md"
-    },
-    {
-      "basename": "关于",
-      "path": "docs/关于.md"
     },
     {
       "basename": "解析让人上瘾的情绪价值-恋爱指南",
