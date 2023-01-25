@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
       {
         "id": "c4694f97577511e1",
         "type": "tabs",
-        "dimension": 55.51470588235294,
+        "dimension": 55.51470588235295,
         "children": [
           {
             "id": "3c5fd3b9e284f234",
@@ -134,7 +134,7 @@
       {
         "id": "b07772566fa10b04",
         "type": "tabs",
-        "dimension": 44.48529411764706,
+        "dimension": 44.48529411764705,
         "children": [
           {
             "id": "bf9e44eac4b6ea9c",
@@ -164,15 +164,15 @@
   },
   "active": "ee294afcf5a7318f",
   "lastOpenFiles": [
-    "docs/01索引/各种链接.md",
+    "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
     "docs/index.md",
+    "docs/01索引/各种链接.md",
     "docs/01索引/文章收藏.md",
     "docs/01索引/观影记录.md",
     "docs/01索引/最近更新.md",
     "docs/01索引/其他.md",
     "docs/02观影记录/我们为什么要记笔记by fishyer.md",
     "docs/04各种链接/20230125各种链接.md",
-    "docs/66最近更新/未命名.md",
-    "docs/66最近更新/123.md"
+    "docs/66最近更新/未命名.md"
   ]
 }
