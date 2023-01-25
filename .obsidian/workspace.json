@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/01索引/各种链接.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/01索引/各种链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/01索引/各种链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/01索引/各种链接.md"
               }
             }
           }
@@ -164,10 +164,10 @@
   },
   "active": "ee294afcf5a7318f",
   "lastOpenFiles": [
-    "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
-    "docs/index.md",
-    "docs/01索引/各种链接.md",
     "docs/01索引/文章收藏.md",
+    "docs/index.md",
+    "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
+    "docs/01索引/各种链接.md",
     "docs/01索引/观影记录.md",
     "docs/01索引/最近更新.md",
     "docs/01索引/其他.md",
