@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2023",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,15 +156,15 @@
   },
   "active": "db6bd626921ce19c",
   "lastOpenFiles": [
-    "docs/01索引/观影记录.md",
     "docs/01索引/文章收藏.md",
-    "docs/01索引/各种链接.md",
-    "docs/01索引/最近更新.md",
+    "docs/index.md",
+    "docs/66最近更新/未命名.md",
+    "docs/66最近更新/456.md",
+    "docs/01索引/观影记录.md",
+    "docs/55其他/关于.md",
+    "docs/66最近更新/123.md",
     "docs/01索引/其他.md",
-    "草稿箱/未命名.md",
-    "docs/02观影记录/横道世之界.md",
-    "docs/02观影记录/我们为什么要记笔记by fishyer.md",
-    "草稿箱/未命名.canvas",
-    "docs/55其他/MarkDown超级教程 Obsidian版 2022.1.12.md"
+    "docs/01索引/各种链接.md",
+    "docs/01索引/最近更新.md"
   ]
 }
