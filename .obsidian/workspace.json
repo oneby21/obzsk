@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01索引/文章收藏.md",
+                "file": "docs/55其他/03老子天下无敌.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01索引/文章收藏.md",
+                "file": "docs/55其他/03老子天下无敌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01索引/文章收藏.md"
+                "file": "docs/55其他/03老子天下无敌.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01索引/文章收藏.md",
+                "file": "docs/55其他/03老子天下无敌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +155,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32ae80cb33f72a22",
+  "active": "d1dd05d904487ea7",
   "lastOpenFiles": [
-    "docs/03文章收藏/白小纯-情圣.md",
-    "docs/03文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md",
-    "docs/03文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md",
-    "docs/03文章收藏/解析让人上瘾的情绪价值-恋爱指南.md",
-    "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
-    "docs/05其他/MarkDown超级教程 Obsidian版 2022.1.12.md",
-    "docs/05其他/关于.md",
-    "docs/05其他/03老子天下无敌.md",
-    "docs/06最近更新/456.md",
-    "docs/01索引/观影记录.md"
+    "docs/55其他/关于.md",
+    "docs/55其他/MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "docs/55其他/03老子天下无敌.md",
+    "docs/66最近更新/456.md",
+    "docs/66最近更新/未命名.md",
+    "docs/66最近更新/123.md",
+    "docs/index.md",
+    "docs/01索引/文章收藏.md",
+    "docs/01索引/观影记录.md",
+    "docs/01索引/各种链接.md"
   ]
 }

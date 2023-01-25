@@ -7,7 +7,7 @@
   "promptDelete": false,
   "fileSortOrder": "byCreatedTime",
   "showUnsupportedFiles": true,
-  "newFileFolderPath": "新建笔记",
+  "newFileFolderPath": "草稿箱",
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
