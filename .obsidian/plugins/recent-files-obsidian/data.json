@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "03老子天下无敌",
-      "path": "docs/05其他/03老子天下无敌.md"
+      "basename": "文章收藏",
+      "path": "docs/01索引/文章收藏.md"
+    },
+    {
+      "basename": "白小纯-情圣",
+      "path": "docs/03文章收藏/白小纯-情圣.md"
+    },
+    {
+      "basename": "在虚拟世界找平衡：一次「逃离」社交网络的尝试",
+      "path": "docs/03文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md"
+    },
+    {
+      "basename": "珍爱生活：远离国产毒瘤软件 - 木子",
+      "path": "docs/03文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md"
+    },
+    {
+      "basename": "解析让人上瘾的情绪价值-恋爱指南",
+      "path": "docs/03文章收藏/解析让人上瘾的情绪价值-恋爱指南.md"
+    },
+    {
+      "basename": "一封高三老师写给大一学生的信  陆简隽博客",
+      "path": "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md"
     },
     {
       "basename": "MarkDown超级教程 Obsidian版 2022.1.12",
       "path": "docs/05其他/MarkDown超级教程 Obsidian版 2022.1.12.md"
     },
     {
-      "basename": "index",
-      "path": "docs/index.md"
+      "basename": "关于",
+      "path": "docs/05其他/关于.md"
+    },
+    {
+      "basename": "03老子天下无敌",
+      "path": "docs/05其他/03老子天下无敌.md"
+    },
+    {
+      "basename": "456",
+      "path": "docs/06最近更新/456.md"
     },
     {
       "basename": "观影记录",
@@ -21,12 +49,16 @@
       "path": "docs/01索引/各种链接.md"
     },
     {
-      "basename": "文章收藏",
-      "path": "docs/01索引/文章收藏.md"
+      "basename": "最近更新",
+      "path": "docs/01索引/最近更新.md"
     },
     {
-      "basename": "456",
-      "path": "docs/06最近更新/456.md"
+      "basename": "其他",
+      "path": "docs/01索引/其他.md"
+    },
+    {
+      "basename": "index",
+      "path": "docs/index.md"
     },
     {
       "basename": "123",
@@ -37,44 +69,12 @@
       "path": "docs/06最近更新/未命名.md"
     },
     {
-      "basename": "其他",
-      "path": "docs/01索引/其他.md"
-    },
-    {
-      "basename": "白小纯-情圣",
-      "path": "docs/03文章收藏/白小纯-情圣.md"
-    },
-    {
-      "basename": "珍爱生活：远离国产毒瘤软件 - 木子",
-      "path": "docs/03文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md"
-    },
-    {
-      "basename": "一封高三老师写给大一学生的信  陆简隽博客",
-      "path": "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md"
-    },
-    {
-      "basename": "在虚拟世界找平衡：一次「逃离」社交网络的尝试",
-      "path": "docs/03文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md"
-    },
-    {
-      "basename": "解析让人上瘾的情绪价值-恋爱指南",
-      "path": "docs/03文章收藏/解析让人上瘾的情绪价值-恋爱指南.md"
-    },
-    {
       "basename": "我们为什么要记笔记by fishyer",
       "path": "docs/02观影记录/我们为什么要记笔记by fishyer.md"
     },
     {
       "basename": "横道世之界",
       "path": "docs/02观影记录/横道世之界.md"
-    },
-    {
-      "basename": "最近更新",
-      "path": "docs/01索引/最近更新.md"
-    },
-    {
-      "basename": "关于",
-      "path": "docs/05其他/关于.md"
     },
     {
       "basename": "Templater时间戳模板",
@@ -195,10 +195,6 @@
     {
       "basename": "任何狂热都值得警惕",
       "path": "【b永久盒子】/任何狂热都值得警惕.md"
-    },
-    {
-      "basename": "老子天下无敌",
-      "path": "【b永久盒子】/老子天下无敌.md"
     }
   ],
   "omittedPaths": [],

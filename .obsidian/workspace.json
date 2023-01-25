@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/05其他/03老子天下无敌.md",
+                "file": "docs/01索引/文章收藏.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,51 +84,8 @@
     "type": "split",
     "children": [
       {
-        "id": "28ad8115fea40441",
-        "type": "tabs",
-        "dimension": 43.8235294117647,
-        "children": [
-          {
-            "id": "76e6c7a1d938e811",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "docs/05其他/03老子天下无敌.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224442,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c4694f97577511e1",
         "type": "tabs",
-        "dimension": 56.1764705882353,
         "children": [
           {
             "id": "3c5fd3b9e284f234",
@@ -136,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/05其他/03老子天下无敌.md",
+                "file": "docs/01索引/文章收藏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/05其他/03老子天下无敌.md"
+                "file": "docs/01索引/文章收藏.md"
               }
             }
           },
@@ -174,14 +131,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/05其他/03老子天下无敌.md",
+                "file": "docs/01索引/文章收藏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,15 +157,15 @@
   },
   "active": "32ae80cb33f72a22",
   "lastOpenFiles": [
+    "docs/03文章收藏/白小纯-情圣.md",
+    "docs/03文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md",
+    "docs/03文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md",
+    "docs/03文章收藏/解析让人上瘾的情绪价值-恋爱指南.md",
+    "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md",
     "docs/05其他/MarkDown超级教程 Obsidian版 2022.1.12.md",
-    "docs/index.md",
-    "docs/01索引/观影记录.md",
-    "docs/01索引/各种链接.md",
-    "docs/01索引/文章收藏.md",
+    "docs/05其他/关于.md",
+    "docs/05其他/03老子天下无敌.md",
     "docs/06最近更新/456.md",
-    "docs/06最近更新/123.md",
-    "docs/06最近更新/未命名.md",
-    "docs/01索引/其他.md",
-    "docs/03文章收藏/白小纯-情圣.md"
+    "docs/01索引/观影记录.md"
   ]
 }
