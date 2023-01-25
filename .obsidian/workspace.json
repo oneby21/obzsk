@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df7b141b6cb6368e",
+        "id": "6b3c8a59cf36baac",
         "type": "tabs",
         "children": [
           {
-            "id": "32ae80cb33f72a22",
+            "id": "db6bd626921ce19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/55其他/03老子天下无敌.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1dd05d904487ea7",
+            "id": "d7b7d3f08c4f4c93",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,22 +43,15 @@
             }
           },
           {
-            "id": "430d9babaec8b760",
+            "id": "8f148f72bfdd894c",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "\"![[Pasted image 20220522153723.png]]\"",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+              "type": "recent-files",
+              "state": {}
             }
           },
           {
-            "id": "3acd3a9841fccd8f",
+            "id": "df782712bf474dcf",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,11 +59,18 @@
             }
           },
           {
-            "id": "8f148f72bfdd894c",
+            "id": "f6517059ec5edef0",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {}
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/55其他/03老子天下无敌.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/55其他/03老子天下无敌.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/55其他/03老子天下无敌.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,25 +147,23 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1dd05d904487ea7",
+  "active": "db6bd626921ce19c",
   "lastOpenFiles": [
-    "docs/55其他/关于.md",
-    "docs/55其他/MarkDown超级教程 Obsidian版 2022.1.12.md",
-    "docs/55其他/03老子天下无敌.md",
-    "docs/66最近更新/456.md",
-    "docs/66最近更新/未命名.md",
-    "docs/66最近更新/123.md",
-    "docs/index.md",
-    "docs/01索引/文章收藏.md",
     "docs/01索引/观影记录.md",
-    "docs/01索引/各种链接.md"
+    "docs/01索引/文章收藏.md",
+    "docs/01索引/各种链接.md",
+    "docs/01索引/最近更新.md",
+    "docs/01索引/其他.md",
+    "草稿箱/未命名.md",
+    "docs/02观影记录/横道世之界.md",
+    "docs/02观影记录/我们为什么要记笔记by fishyer.md",
+    "草稿箱/未命名.canvas",
+    "docs/55其他/MarkDown超级教程 Obsidian版 2022.1.12.md"
   ]
 }
