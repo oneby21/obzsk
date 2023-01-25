@@ -5,6 +5,10 @@
       "path": "docs/index.md"
     },
     {
+      "basename": "其他",
+      "path": "docs/01索引/其他.md"
+    },
+    {
       "basename": "文章收藏",
       "path": "docs/01索引/文章收藏.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "123",
       "path": "docs/66最近更新/123.md"
-    },
-    {
-      "basename": "其他",
-      "path": "docs/01索引/其他.md"
     },
     {
       "basename": "各种链接",

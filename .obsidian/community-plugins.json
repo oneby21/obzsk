@@ -9,9 +9,9 @@
   "Enhanced editing",
   "obsidian-auto-pair-chinese-symbol",
   "better-fn",
-  "cmenu-plugin",
   "obsidian-emoji-toolbar",
   "dataview",
   "recent-files-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "cmenu-plugin"
 ]

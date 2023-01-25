@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2023",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 241
   },
   "right": {
     "id": "5c00622e47bed8a4",
@@ -156,14 +155,14 @@
   },
   "active": "db6bd626921ce19c",
   "lastOpenFiles": [
-    "docs/01索引/文章收藏.md",
+    "docs/01索引/其他.md",
     "docs/index.md",
+    "docs/01索引/文章收藏.md",
     "docs/66最近更新/未命名.md",
     "docs/66最近更新/456.md",
     "docs/01索引/观影记录.md",
     "docs/55其他/关于.md",
     "docs/66最近更新/123.md",
-    "docs/01索引/其他.md",
     "docs/01索引/各种链接.md",
     "docs/01索引/最近更新.md"
   ]
