@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "03老子天下无敌",
+      "path": "docs/05其他/03老子天下无敌.md"
+    },
+    {
+      "basename": "MarkDown超级教程 Obsidian版 2022.1.12",
+      "path": "docs/05其他/MarkDown超级教程 Obsidian版 2022.1.12.md"
+    },
+    {
       "basename": "index",
       "path": "docs/index.md"
+    },
+    {
+      "basename": "观影记录",
+      "path": "docs/01索引/观影记录.md"
+    },
+    {
+      "basename": "各种链接",
+      "path": "docs/01索引/各种链接.md"
+    },
+    {
+      "basename": "文章收藏",
+      "path": "docs/01索引/文章收藏.md"
     },
     {
       "basename": "456",
@@ -15,18 +35,6 @@
     {
       "basename": "未命名",
       "path": "docs/06最近更新/未命名.md"
-    },
-    {
-      "basename": "各种链接",
-      "path": "docs/01索引/各种链接.md"
-    },
-    {
-      "basename": "观影记录",
-      "path": "docs/01索引/观影记录.md"
-    },
-    {
-      "basename": "文章收藏",
-      "path": "docs/01索引/文章收藏.md"
     },
     {
       "basename": "其他",
@@ -63,10 +71,6 @@
     {
       "basename": "最近更新",
       "path": "docs/01索引/最近更新.md"
-    },
-    {
-      "basename": "03老子天下无敌",
-      "path": "docs/05其他/03老子天下无敌.md"
     },
     {
       "basename": "关于",
@@ -195,10 +199,6 @@
     {
       "basename": "老子天下无敌",
       "path": "【b永久盒子】/老子天下无敌.md"
-    },
-    {
-      "basename": "爱的沟通",
-      "path": "纸间书摘/爱的沟通.md"
     }
   ],
   "omittedPaths": [],

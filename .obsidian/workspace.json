@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2e6c7940c3cbb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e12bf0751ac37469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cdfe981ad5f82f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01索引/各种链接.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1439831e11d03d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01索引/文章收藏.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f7a4384a074da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01索引/各种链接.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c5e55e8351621c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01索引/观影记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c141d5e20280bb0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "32ae80cb33f72a22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/05其他/03老子天下无敌.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/05其他/03老子天下无敌.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/05其他/03老子天下无敌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/05其他/03老子天下无敌.md"
               }
             }
           },
@@ -259,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/05其他/03老子天下无敌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,15 +201,15 @@
   },
   "active": "32ae80cb33f72a22",
   "lastOpenFiles": [
+    "docs/05其他/MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "docs/index.md",
+    "docs/01索引/观影记录.md",
+    "docs/01索引/各种链接.md",
+    "docs/01索引/文章收藏.md",
     "docs/06最近更新/456.md",
     "docs/06最近更新/123.md",
     "docs/06最近更新/未命名.md",
-    "docs/01索引/各种链接.md",
-    "docs/01索引/观影记录.md",
-    "docs/01索引/文章收藏.md",
-    "docs/index.md",
     "docs/01索引/其他.md",
-    "docs/03文章收藏/白小纯-情圣.md",
-    "docs/03文章收藏/珍爱生活：远离国产毒瘤软件 - 木子.md"
+    "docs/03文章收藏/白小纯-情圣.md"
   ]
 }
