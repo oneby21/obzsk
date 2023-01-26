@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "docs/index.md"
+    },
+    {
       "basename": "其他",
       "path": "docs/01索引/其他.md"
     },
     {
-      "basename": "index",
-      "path": "docs/index.md"
+      "basename": "最近更新",
+      "path": "docs/01索引/最近更新.md"
+    },
+    {
+      "basename": "各种链接",
+      "path": "docs/01索引/各种链接.md"
+    },
+    {
+      "basename": "文章收藏",
+      "path": "docs/01索引/文章收藏.md"
+    },
+    {
+      "basename": "观影记录",
+      "path": "docs/01索引/观影记录.md"
     },
     {
       "basename": "20230125各种链接",
@@ -17,24 +33,8 @@
       "path": "docs/55其他/MarkDown超级教程 Obsidian版 2022.1.12.md"
     },
     {
-      "basename": "各种链接",
-      "path": "docs/01索引/各种链接.md"
-    },
-    {
-      "basename": "最近更新",
-      "path": "docs/01索引/最近更新.md"
-    },
-    {
       "basename": "关于",
       "path": "docs/55其他/关于.md"
-    },
-    {
-      "basename": "观影记录",
-      "path": "docs/01索引/观影记录.md"
-    },
-    {
-      "basename": "文章收藏",
-      "path": "docs/01索引/文章收藏.md"
     },
     {
       "basename": "一封高三老师写给大一学生的信  陆简隽博客",
