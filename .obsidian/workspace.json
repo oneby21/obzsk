@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ee294afcf5a7318f",
+  "active": "8f148f72bfdd894c",
   "lastOpenFiles": [
     "docs/01索引/其他.md",
     "docs/01索引/最近更新.md",
