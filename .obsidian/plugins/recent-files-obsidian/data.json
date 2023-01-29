@@ -5,6 +5,10 @@
       "path": "docs/index.md"
     },
     {
+      "basename": "Templater时间戳模板",
+      "path": "e模板/Templater时间戳模板.md"
+    },
+    {
       "basename": "其他",
       "path": "docs/01索引/其他.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "在虚拟世界找平衡：一次「逃离」社交网络的尝试",
       "path": "docs/03文章收藏/在虚拟世界找平衡：一次「逃离」社交网络的尝试.md"
-    },
-    {
-      "basename": "Templater时间戳模板",
-      "path": "e模板/Templater时间戳模板.md"
     },
     {
       "basename": "Pasted image 20220522153746",

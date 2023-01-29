@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8f148f72bfdd894c",
+  "active": "ee294afcf5a7318f",
   "lastOpenFiles": [
+    "e模板/Templater时间戳模板.md",
+    "docs/index.md",
     "docs/01索引/其他.md",
     "docs/01索引/最近更新.md",
     "docs/01索引/各种链接.md",
     "docs/01索引/文章收藏.md",
     "docs/01索引/观影记录.md",
-    "docs/index.md",
     "docs/04各种链接/20230125各种链接.md",
     "docs/55其他/MarkDown超级教程 Obsidian版 2022.1.12.md",
-    "docs/55其他/关于.md",
-    "docs/03文章收藏/一封高三老师写给大一学生的信  陆简隽博客.md"
+    "docs/55其他/关于.md"
   ]
 }
